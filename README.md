@@ -4,7 +4,7 @@ This project is a quickStart to create a remote wifi switch along with its web i
 
 ## Functionlities
 
-* Remote On / Off from any computer of smartphone
+* Remote On / Off from any computer or smartphone
 * Remote timer On / Off
 * Physical On / Off synchronized with the web app
 * Physical timer On / Off synchronized with the web app
